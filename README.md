@@ -32,9 +32,9 @@ This project is useful for applications like:
 - **CNN (Convolutional Neural Network)**
 
 ---
-
 ## 📂 Project Structure
 
+```text
 Emotion-Detection/
 │
 ├── data/
